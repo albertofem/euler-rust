@@ -1,0 +1,5 @@
+[package]
+
+name = "euler-problem-3"
+version = "0.0.1"
+authors = ["afernandez"]
